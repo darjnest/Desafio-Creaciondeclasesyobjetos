@@ -1,6 +1,6 @@
 # Desafio-Creaciondeclasesyobjetos
 
-¡Absolutamente! Aquí tienes el código Markdown para el README de tu repositorio de GitHub, estructurado para explicar claramente el desafío y su solución:
+
 
 Desafío: Creación de clases y objetos para una tienda de té
 
@@ -51,8 +51,7 @@ class Te:
     def precio(formato):
         # Implementación según los requerimientos
         pass
-Usa el código con precaución.
-Cómo ejecutar el proyecto
+
 
 Clonar este repositorio.
 Instalar las dependencias necesarias (si las hay).
@@ -63,10 +62,9 @@ Modularidad: Organizar el código en funciones y métodos para mejorar la legibi
 Validación de datos: Implementar validaciones para asegurar que los datos ingresados por el usuario sean correctos.
 Excepciones: Manejar posibles excepciones (por ejemplo, si el usuario ingresa un sabor inválido).
 Documentación: Agregar comentarios explicativos al código para facilitar su comprensión.
-¡Completa el código y explora otras funcionalidades!
 
 Nota: Este es un ejemplo básico. Puedes personalizarlo y agregar más características según tus necesidades.
 
 Para una solución completa y detallada, consulta los archivos instancias.py y pedido.py en el repositorio.
 
-¡Diviértete programando!
+
